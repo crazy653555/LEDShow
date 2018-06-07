@@ -87,7 +87,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\r\n\r\n\r\n  <!-- <ul>\r\n    <li><a [routerLink]=\"['/home']\">Home</a></li>\r\n    <li><a [routerLink]=\"['/second']\">Second</a></li>\r\n  </ul>\r\n  <hr> -->\r\n\r\n  <router-outlet style=\"height: 100%\"></router-outlet>\r\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\r\n\r\n\r\n  <ul>\r\n    <li><a [routerLink]=\"['/home']\">Home</a></li>\r\n    <li><a [routerLink]=\"['/second']\">Second</a></li>\r\n  </ul>\r\n  <hr>\r\n\r\n  <router-outlet style=\"height: 100%\"></router-outlet>\r\n"
 
 /***/ }),
 
