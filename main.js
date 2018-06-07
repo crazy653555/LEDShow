@@ -285,7 +285,7 @@ var HomeComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".body {\r\n  background-color: #3b3b3b;\r\n  /* background-color:#ffffff; */\r\n  height: 100%;\r\n}\r\n\r\n.ledfont {\r\n  position: absolute;\r\n  top: 0;\r\n  left: 0;\r\n  height: 100%;\r\n  width: 100%;\r\n  font-weight: bold;\r\n  display: table;\r\n  font-family: PMingLiU;\r\n}\r\n\r\n.led {\r\n  background-image: url(\"/assets/imgs/circle45.png\");\r\n  background-repeat: repeat;\r\n  background-size: 40%;\r\n  z-index: 1;\r\n  position: fixed;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n}\r\n\r\n#cell{\r\n  display: table-cell;\r\n  vertical-align: middle;\r\n  text-align: center;\r\n}\r\n"
+module.exports = ".body {\r\n  background-color: #3b3b3b;\r\n  /* background-color:#ffffff; */\r\n  height: 100%;\r\n}\r\n\r\n.ledfont {\r\n  position: absolute;\r\n  top: 0;\r\n  left: 0;\r\n  height: 100%;\r\n  width: 100%;\r\n  font-weight: bold;\r\n  display: table;\r\n  font-family: PMingLiU;\r\n}\r\n\r\n.led {\r\n  background-image: url(\"https://crazy653555.github.io/LEDShow/assets/imgs/circle45.png\");\r\n  background-repeat: repeat;\r\n  background-size: 40%;\r\n  z-index: 1;\r\n  position: fixed;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n}\r\n\r\n#cell{\r\n  display: table-cell;\r\n  vertical-align: middle;\r\n  text-align: center;\r\n}\r\n"
 
 /***/ }),
 
